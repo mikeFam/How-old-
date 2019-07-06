@@ -13,9 +13,10 @@
     padding-top: 5px;
     padding-bottom: 0px;
     height: 51vh;
-    background-color: #202125;
+    cursor:pointer;
+    background-color: #cea0ae;
     border-radius: 20px;
-    color: white;
+    color: #32213a;
   }
   
   .image1 {
